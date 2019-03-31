@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         //测试3
         Log.i("TAG","first");
         Log.i("TAG","second");
+        Log.i("TAG","third");
     }
 }
